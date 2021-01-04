@@ -1,0 +1,11 @@
+﻿  term_proj.cpp
+c:\users\peric\insync\kperic777@gmail.com\google drive\uwm\cs459\term_project\load_obj.hpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\peric\insync\kperic777@gmail.com\google drive\uwm\cs459\term_project\load_obj.hpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\peric\insync\kperic777@gmail.com\google drive\uwm\cs459\term_project\load_bmp.hpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\peric\insync\kperic777@gmail.com\google drive\uwm\cs459\term_project\term_proj.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\peric\insync\kperic777@gmail.com\google drive\uwm\cs459\term_project\term_proj.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\peric\insync\kperic777@gmail.com\google drive\uwm\cs459\term_project\term_proj.cpp(466): warning C4018: '<': signed/unsigned mismatch
+c:\users\peric\insync\kperic777@gmail.com\google drive\uwm\cs459\term_project\term_proj.cpp(292): warning C4101: 'v3': unreferenced local variable
+c:\users\peric\insync\kperic777@gmail.com\google drive\uwm\cs459\term_project\term_proj.cpp(293): warning C4101: 'u3': unreferenced local variable
+c:\users\peric\insync\kperic777@gmail.com\google drive\uwm\cs459\term_project\term_proj.cpp(856): warning C4018: '<': signed/unsigned mismatch
+  term_proj_sln.vcxproj -> C:\Users\peric\Insync\kperic777@gmail.com\Google Drive\uwm\cs459\term_project\term_proj_sln\Debug\term_proj_sln.exe
