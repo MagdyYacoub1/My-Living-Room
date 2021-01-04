@@ -4,4 +4,9 @@
 before cloning this project, please make sure that you have openGl installed on your machine.
 I found this link very usful for installing openGl: https://www.absingh.com/opengl/
 
-Credit for the project idea and most of the implementation returns to my teammate Cronoslave.
+After cloning the repositry run the project.
+You can controll the camera using W,A,S,D keys and the mouse.
+To controll the TV press C.
+To exit the TV mode press C again.
+
+Credit for the project idea and part of the implementation returns to my teammate Cronoslave.
