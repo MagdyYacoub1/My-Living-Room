@@ -10,3 +10,10 @@ To controll the TV press C.
 To exit the TV mode press C again.
 
 Credit for the project idea and part of the implementation returns to my teammate Cronoslave.
+
+<br>
+<br>
+<br>
+
+![project screenshot](https://user-images.githubusercontent.com/48620070/131230075-f17c710a-03fb-4c78-bb91-5e78c62ef69c.jpg)
+
