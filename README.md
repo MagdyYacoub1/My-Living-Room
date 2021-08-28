@@ -9,7 +9,7 @@ You can controll the camera using W,A,S,D keys and the mouse.
 To controll the TV press C.
 To exit the TV mode press C again.
 
-Credit for the project idea and part of the implementation returns to my teammate Cronoslave.
+Credit for the project idea and part of the implementation returns to **my teammate Cronoslave**.
 
 <br>
 <br>
